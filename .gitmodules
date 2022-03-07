@@ -1,0 +1,3 @@
+[submodule "hw1/hw1/q1-circom/circomlib"]
+	path = hw1/hw1/q1-circom/circomlib
+	url = https://github.com/iden3/circomlib
